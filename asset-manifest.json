@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9c7fbc40.css",
+    "main.js": "/react-gh-pages/static/js/main.ce6b54ed.js",
+    "static/js/592.1f93b7fd.chunk.js": "/react-gh-pages/static/js/592.1f93b7fd.chunk.js",
+    "static/media/about.jpg": "/react-gh-pages/static/media/about.e3fc3f003e1a8d40d60a.jpg",
+    "static/media/2.jpg": "/react-gh-pages/static/media/2.7704701feec9e15f399b.jpg",
+    "static/media/about-bg.jpg": "/react-gh-pages/static/media/about-bg.715c47a3ee8ea29a00ed.jpg",
+    "static/media/3.jpg": "/react-gh-pages/static/media/3.9b89832eafce1a2450ab.jpg",
+    "static/media/1.jpg": "/react-gh-pages/static/media/1.93faf3c158082bb54eb2.jpg",
+    "static/media/hero-bg.jpg": "/react-gh-pages/static/media/hero-bg.6ce18897f7f8f1ca0c55.jpg",
+    "static/media/simplify360.png": "/react-gh-pages/static/media/simplify360.a95c032e3e9063a946f5.png",
+    "static/media/orbispay.png": "/react-gh-pages/static/media/orbispay.22656b49de41bca0c31c.png",
+    "static/media/limelightcapital.png": "/react-gh-pages/static/media/limelightcapital.0a2e0cdd7000cc740d3c.png",
+    "static/media/thc.png": "/react-gh-pages/static/media/thc.129eab059e399c8bc809.png",
+    "static/media/drnewmed.png": "/react-gh-pages/static/media/drnewmed.82bbe597ca32fa1a253d.png",
+    "static/media/orchestrate.png": "/react-gh-pages/static/media/orchestrate.edca72ba93d46db928dc.png",
+    "static/media/mimoda.png": "/react-gh-pages/static/media/mimoda.5a57e57b6f8e9100576f.png",
+    "static/media/tagmobile.png": "/react-gh-pages/static/media/tagmobile.56bf8111ead06fd08cbb.png",
+    "static/media/intelliverse.png": "/react-gh-pages/static/media/intelliverse.abf7d8a7c7530cc6e2fa.png",
+    "static/media/elitemember.png": "/react-gh-pages/static/media/elitemember.8fc9558efe2d70126b42.png",
+    "static/media/RevoltutionLabs-Logo.svg": "/react-gh-pages/static/media/RevoltutionLabs-Logo.654e108b295124961ea04f5054d9a06c.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.9c7fbc40.css.map": "/react-gh-pages/static/css/main.9c7fbc40.css.map",
+    "main.ce6b54ed.js.map": "/react-gh-pages/static/js/main.ce6b54ed.js.map",
+    "592.1f93b7fd.chunk.js.map": "/react-gh-pages/static/js/592.1f93b7fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c7fbc40.css",
+    "static/js/main.ce6b54ed.js"
+  ]
+}
