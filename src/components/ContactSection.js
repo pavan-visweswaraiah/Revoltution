@@ -1,6 +1,6 @@
 const ContactSection = () => {
     return(
-        <section id="contact" className="section-with-bg">
+        <section id="contact" className="section-with-bg" style={{paddingTop: '10px'}}>
       <div className="container" >
         <div className="section-header">
           <h2>Contact Us</h2>
