@@ -1,11 +1,11 @@
 // images
 import AboutBgImage from '../assets/img/about-bg.jpg'
-import AboutImage from '../assets/img/supporters/about.jpg'
+// import AboutImage from '../assets/img/supporters/about.jpg'
 
 const About = () => {
     return(
         <>
-        <section id="about" style={{background: `url(${AboutBgImage})`, backgroundSize: 'cover'}}>
+        <section id="about">
       <div className="container" data-aos="fade-up">
         <div className="row">
           <div className="col-lg-4" style={{marginBottom: '20px'}}>
