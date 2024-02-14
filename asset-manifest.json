@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Revoltution/static/css/main.9c7fbc40.css",
-    "main.js": "/Revoltution/static/js/main.0c8f3f72.js",
+    "main.js": "/Revoltution/static/js/main.85efef49.js",
     "static/js/592.1f93b7fd.chunk.js": "/Revoltution/static/js/592.1f93b7fd.chunk.js",
     "static/media/about.jpg": "/Revoltution/static/media/about.e3fc3f003e1a8d40d60a.jpg",
     "static/media/2.jpg": "/Revoltution/static/media/2.7704701feec9e15f399b.jpg",
@@ -22,11 +22,11 @@
     "static/media/RevoltutionLabs-Logo.svg": "/Revoltution/static/media/RevoltutionLabs-Logo.654e108b295124961ea04f5054d9a06c.svg",
     "index.html": "/Revoltution/index.html",
     "main.9c7fbc40.css.map": "/Revoltution/static/css/main.9c7fbc40.css.map",
-    "main.0c8f3f72.js.map": "/Revoltution/static/js/main.0c8f3f72.js.map",
+    "main.85efef49.js.map": "/Revoltution/static/js/main.85efef49.js.map",
     "592.1f93b7fd.chunk.js.map": "/Revoltution/static/js/592.1f93b7fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c7fbc40.css",
-    "static/js/main.0c8f3f72.js"
+    "static/js/main.85efef49.js"
   ]
 }
