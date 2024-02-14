@@ -2,7 +2,7 @@ import { InvestorsSectionData } from "./InvestorsSectionData";
 
 const InvestorsSection = () => {
     return(
-        <section id="supporters" style={{paddingTop:'10px'}}>
+        <section id="supporters">
 
       <div class="container" >
         <div class="section-header">
